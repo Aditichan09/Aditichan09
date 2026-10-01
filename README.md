@@ -1,12 +1,10 @@
-Hey, i'm Aditi
+yoo, i'm Aditi 
 
-building Yugen and learning along the way.
+I'm a student who likes learning random things and turning ideas into projects.
 
-Currently into:
+Currently building Yugen and getting deeper into web development, Python, and Japanese.
 
-- web development
-- Python
-- Japanese
-- building things that actually interest me
+I like experimenting, figuring things out on my own, and occasionally making something that actually works.
 
-still figuring things out :)
+౨ৎ still learning, still building.
+
